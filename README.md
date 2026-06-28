@@ -68,6 +68,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
  **[✔️]** = Done  
  **[🐛]** = Bug
 
+- Added WorldGuard ownership checks to prevent players from creating shops in regions they do not own. **[✔️]**
 - Add shop creation fee and refund **[✔️]**
 - Add configurable shop creation fees and refunds. **[✔️]**
 - Add a configurable item blacklist. **[✔️]**
