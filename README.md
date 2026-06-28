@@ -4,7 +4,7 @@
 
 #
 
-ShopChest Reborn is a modern, high-performance chest shop plugin for Paper servers, inspired by the original ShopChest and rebuilt from the ground up.
+ShopChest Reborn is a modern, high-performance chest shop plugin for Paper servers, inspired by the original [ShopChest](https://www.spigotmc.org/resources/shopchest.11431/) and rebuilt from the ground up.
 
 ## New Features:
 
