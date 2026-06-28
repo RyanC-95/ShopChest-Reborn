@@ -10,13 +10,13 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 
 - **/shop find <item<item>>** will bring up a GUI with all shops in a configured radius (100 blocks) that are selling or buying that item. Click the shop to teleport to that shop
 
-<img width="451" height="500" alt="2026-06-28_16 26 34" src="https://github.com/user-attachments/assets/6a8ef18d-9e5b-4f60-92ad-7b3f1778ddc9" />
+<img width="225" height="250" alt="2026-06-28_16 26 34" src="https://github.com/user-attachments/assets/6a8ef18d-9e5b-4f60-92ad-7b3f1778ddc9" />
 
-<img width="450" height="498" alt="2026-06-28_16 20 13" src="https://github.com/user-attachments/assets/c4bd43e9-fc91-4691-8e2f-7aa564e946e9" />
+<img width="225" height="250" alt="2026-06-28_16 20 13" src="https://github.com/user-attachments/assets/c4bd43e9-fc91-4691-8e2f-7aa564e946e9" />
 
-<img width="450" height="504" alt="2026-06-28_16 26 58" src="https://github.com/user-attachments/assets/1ce5933c-8714-49f3-9c9d-2811decf19d7" />
+<img width="225" height="250" alt="2026-06-28_16 26 58" src="https://github.com/user-attachments/assets/1ce5933c-8714-49f3-9c9d-2811decf19d7" />
 
-<img width="579" height="42" alt="2026-06-28_16 32 15" src="https://github.com/user-attachments/assets/75a2a8c7-64ce-4792-823a-6a27800b7ed9" />
+<img width="289" height="21" alt="2026-06-28_16 32 15" src="https://github.com/user-attachments/assets/75a2a8c7-64ce-4792-823a-6a27800b7ed9" />
 
 - Supports all container types as shops.
   - Chest
