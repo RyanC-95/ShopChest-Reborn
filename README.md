@@ -45,7 +45,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - /shop config
 - /shop update
 
-  ## Permissions
+## Permissions
 
 - shopchest.*
 - shopchest.create
