@@ -20,7 +20,6 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 
 - Supports all container types as shops.
   - Chest
-  - Ender Chest
   - Barrel 
   - Trapped Chest
   - Copper Chest
