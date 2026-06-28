@@ -58,29 +58,28 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
  **[❌]** = Not Done  
  **[✔️]** = Done  
  **[🐛]** = Bug
- 
-- Add a language file for item name translations **[❌]**
-- Add Advanced Region Market hook so shops remove when region expires **[❌]**
-- Allow admins to run **/shop open** to view players shops **[❌]**
-- Add floating items above chest shops **[❌]**
-- Prevent players from buying or selling while in Creative mode. **[❌]**
-- Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[❌]**
-- Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
-- Add a teleport delay **[❌]**
-- Configurable minimum/maximum prices and buy ≥ sell validation. **[❌]**
-- Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
-- Add a configurable option to allow or disallow damaged items (items with durability loss) in shop transactions. **[❌]**
+
 - Add shop creation fee and refund **[✔️]**
-- Add shop owner notifications **[❌]**
-- Add "only show shops in sight" option **[❌]**
-- Add decimal price support **[❌]**
-- Add damaged item support **[❌]**
-- Add automatic invalid shop cleanup **[❌]**
-- Add configurable hologram view distance **[❌]**
-- Add configurable floating item view distance **[❌]**
+- Add configurable shop creation fees and refunds. **[✔️]**
 - Add a configurable item blacklist. **[✔️]**
-- Add configurable shop creation fees and refunds. **[❌]**
 - Add protection to prevent blocks being placed above shop chests **[🐛]** error in console
+- Add damaged item support **[❌]**
+- Prevent players from buying or selling while in Creative mode. **[❌]**
+- Configurable minimum/maximum prices and buy ≥ sell validation. **[❌]**
+- Add decimal price support **[❌]**
+- Add a configurable option to allow or disallow damaged items (items with durability loss) in shop transactions. **[❌]**
+- Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
 - Add shop owner (vendor) message notifications. **[❌]**
+- Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[❌]**
+- Add Advanced Region Market hook so shops remove when region expires **[❌]**
+- Add automatic invalid shop cleanup **[❌]**
+- Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
+- Allow admins to run **/shop open** to view players shops **[❌]**
+- Add a teleport delay **[❌]**
+- Add configurable hologram view distance **[❌]**
+- Add floating items above chest shops **[❌]**
+- Add configurable floating item view distance **[❌]**
+- Add "only show shops in sight" option **[❌]**
+- Add a language file for item name translations **[❌]**
 
 
