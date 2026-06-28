@@ -9,6 +9,12 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 ## New Features:
 
 - **/shop find <item<item>>** will bring up a GUI with all shops in a configured radius (100 blocks) that are selling or buying that item. Click the shop to teleport to that shop
+
+<img width="450" height="498" alt="2026-06-28_16 20 13" src="https://github.com/user-attachments/assets/c4bd43e9-fc91-4691-8e2f-7aa564e946e9" />
+
+<img width="578" height="38" alt="2026-06-28_16 20 26" src="https://github.com/user-attachments/assets/ea76c5b3-7c62-4fbe-8adb-15a1f2f5655c" />
+
+
 - Supports all container types as shops.
   - Chest
   - Ender Chest
