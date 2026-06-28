@@ -72,7 +72,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - Add configurable shop creation fees and refunds. **[✔️]**
 - Add a configurable item blacklist. **[✔️]**
 - Add protection to prevent blocks being placed above shop chests **[✔️]**
-- Add damaged item support **[❌]**
+- Add allow-broken-items option **[❌]**
 - Prevent players from buying or selling while in Creative mode. **[❌]**
 - Configurable minimum/maximum prices and buy ≥ sell validation. **[❌]**
 - Add decimal price support **[❌]**
