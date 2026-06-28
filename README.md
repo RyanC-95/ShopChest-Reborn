@@ -16,6 +16,8 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 
 <img width="196" height="192" alt="Buy   Sell" src="https://github.com/user-attachments/assets/f710ea82-de04-4823-9134-a726e7a3ffc3" />
 
+<img width="196" height="192" alt="Admin Shop" src="https://github.com/user-attachments/assets/f5a266d7-1679-4f90-8f78-de9408023188" />
+
 <img width="581" height="39" alt="Message" src="https://github.com/user-attachments/assets/273695a5-f0c4-41c7-bf63-13f20440c73e" />
 
 - Supports all container types as shops.
