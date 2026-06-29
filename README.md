@@ -93,6 +93,6 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - Add "only show shops in sight" option **[❌]**
 - Add a language file for item name translations **[❌]**
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
-- Add a built-in transaction history viewer for shop owners. **[💡]**
+- Add a built-in transaction history viewer for shop owners. /shop history **[💡]**
 
 
