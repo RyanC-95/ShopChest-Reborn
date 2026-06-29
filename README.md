@@ -94,5 +94,10 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - Add a language file for item name translations **[❌]**
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
 - Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
-
+- Example of the GUI info:
+  - Player: RyanC95
+  - Transaction: Bought
+  - Item: Bread
+  - Amount: 16
+  - Price: $32
 
