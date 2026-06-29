@@ -69,17 +69,17 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
  **[✔️]** = Done  
  **[🐛]** = Bug
 
-- Players can create a shop if there is a block directly above the shop container. **[🐛]**
+- Players can create a shop if there is a block directly above the shop container. **[✔️]**
 - Added WorldGuard ownership checks to prevent players from creating shops in regions they do not own. **[✔️]**
 - Add configurable shop creation fees and refunds. **[✔️]**
 - Add a configurable item blacklist. **[✔️]**
 - Add protection to prevent blocks being placed above shop chests **[✔️]**
 - Add allow-broken-items option **[✔️]**
 - Prevent players from buying or selling while in Creative mode. **[✔️]**
-- Configurable minimum/maximum prices and buy ≥ sell validation. **[❌]**
-- Add decimal price support **[❌]**
-- Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
-- Add shop owner (vendor) message notifications. **[❌]**
+- Configurable minimum/maximum prices and buy ≥ sell validation. **[✔️]**
+- Add decimal price support **[✔️]**
+- Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
+- Add shop owner (vendor) message notifications. **[✔️]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[❌]**
 - Add Advanced Region Market hook so shops remove when region expires **[❌]**
 - Add automatic invalid shop cleanup **[❌]**
