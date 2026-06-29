@@ -67,7 +67,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 ## Roadmap
  **[❌]** = Not Done  
  **[✔️]** = Done  
- **[🐛]** = Bug
+ **[🐛]** = Bug  
  **[💡]** = Considering
 
 - Players can create a shop if there is a block directly above the shop container. Bug fixed **[✔️]**
