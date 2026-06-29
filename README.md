@@ -63,6 +63,8 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - shopchest.notification.update
 - shopchest.find
 - shopchest.find.teleport
+- shopchest.bypass.blacklist
+- shopchest.bypass.build-above
 
 ## Roadmap
  **[❌]** = Not Done  
