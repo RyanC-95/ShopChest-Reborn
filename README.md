@@ -68,6 +68,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
  **[❌]** = Not Done  
  **[✔️]** = Done  
  **[🐛]** = Bug
+ **[💡]** = Considering
 
 - Players can create a shop if there is a block directly above the shop container. Bug fixed **[✔️]**
 - Added WorldGuard ownership checks to prevent players from creating shops in regions they do not own. **[✔️]**
@@ -91,5 +92,6 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - Add configurable floating item view distance **[❌]**
 - Add "only show shops in sight" option **[❌]**
 - Add a language file for item name translations **[❌]**
+- Automatically reduce prices for inactive players' shops. **[💡]**
 
 
