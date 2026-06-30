@@ -8,7 +8,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 
 ## New Features:
 
-- **/shop find <item<item>>** will bring up a GUI with all shops in a configured radius (100 blocks) that are selling or buying that item. Click the shop to teleport to that shop
+- **/shop find <item<item>>** will bring up a GUI with all shops in a configured radius (100 blocks) that are selling or buying that item. Click the shop to teleport to that shop. Multi-word queries work: /shop find `oak planks` joins to `oak_planks`
 
 <img width="196" height="192" alt="Buy" src="https://github.com/user-attachments/assets/b73d9a03-a8ab-499f-9e75-79d7ebd5edea" />
 
