@@ -84,9 +84,9 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
 - Add shop owner (vendor) message notifications. **[✔️]**
-- Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[❌]**
-- Add AdvancedRegionMarket integration to automatically remove shops when a players region expires **[❌]**
-- Add automatic invalid shop cleanup **[❌]**
+- Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
+- Add AdvancedRegionMarket integration to automatically remove shops when a players region expires. (Ended up checking if user owns the region. if not shops will be removed) **[✔️]**
+- Add automatic invalid shop cleanup **[✔️]**
 - Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
 - Allow admins to run **/shop open** to view players shops **[❌]**
 - Add a teleport delay **[❌]**
