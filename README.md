@@ -91,7 +91,7 @@ Example of automatic shop removal when you no longer own the region.
 - Add allow-broken-items option **[✔️]**
 - Prevent players from buying or selling while in Creative mode. **[✔️]**
 - Configurable minimum/maximum prices and buy ≥ sell validation. **[✔️]**
-  - Add per item minimum/maximum prices. **[❌]**
+  - Add per item minimum/maximum prices. **[✔️]**
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
   - Extend the tax system by adding configuration options to choose whether tax is applied to buy only, sell only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
@@ -100,7 +100,7 @@ Example of automatic shop removal when you no longer own the region.
 - Automatically remove shops when a players region expires. **[✔️]** *Needs a bit more work*
 - Add automatic invalid shop cleanup **[✔️]**
 - Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
-- Allow admins to run **/shop open** to view players shops **[❌]**
+- Allow admins to run **/shop open** to view players shops **[✔️]**
 - Add a teleport delay **[✔️]**
 - Add configurable hologram view distance **[✔️]** *Optimise the hologram view distance system. It currently works, but it's too slow.*
 - Add configurable floating item view distance **[❌]**
