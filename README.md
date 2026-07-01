@@ -32,6 +32,15 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
   - Waxed Exposed Copper Chest
   - Waxed Weathered Copper Chest
   - Waxed Oxidised Copper Chest
+ 
+Example of a Copper Chest Shop
+
+<img width="722" height="437" alt="Copper Shop" src="https://github.com/user-attachments/assets/0da37adf-684f-48ab-8802-b683d0ba2052" />
+
+Example of automatic shop removal when you no longer own the region.
+
+<img width="542" height="39" alt="Expired" src="https://github.com/user-attachments/assets/635fc0d8-66a7-4bb4-a845-dc7c42db8fd6" />
+
 - Added support for hex colours in hologram-format.yml.
 
 ## Commands
