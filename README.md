@@ -92,7 +92,7 @@ Example of automatic shop removal when you no longer own the region.
 - Add allow-broken-items option **[✔️]**
 - Prevent players from buying or selling while in Creative mode. **[✔️]**
 - Configurable minimum/maximum prices and buy ≥ sell validation. **[✔️]**
-  - Add per item minimum/maximum prices. **[✔️]**
+  - Add per item minimum/maximum prices. **[✔️]** *Needs more descriptive messages*
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
   - Extend the tax system by adding configuration options to choose whether tax is applied to buy only, sell only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
