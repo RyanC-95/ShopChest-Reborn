@@ -85,7 +85,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
   - Add per item minimum/maximum prices. **[❌]**
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
-  - Extend the tax system by adding configuration options to choose whether tax is applied to purchases only, sales only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
+  - Extend the tax system by adding configuration options to choose whether tax is applied to buy only, sell only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
 - Add shop owner (vendor) message notifications. **[✔️]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
 - Automatically remove shops when a players region expires. **[✔️]** *Needs a bit more work*
