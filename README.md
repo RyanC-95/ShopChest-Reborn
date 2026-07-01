@@ -81,6 +81,7 @@ Example of automatic shop removal when you no longer own the region.
  **[🐛]** = Bug  
  **[💡]** = Considering
 
+- Allow admins to run **/shop open** to view players shops **[🐛]** 
 - Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list **[🐛]**
 - Add floating items above chest shops. **[🐛]** *Works, but is bugged*
 - Players can create a shop if there is a block directly above the shop container. Bug fixed **[✔️]**
@@ -100,7 +101,6 @@ Example of automatic shop removal when you no longer own the region.
 - Automatically remove shops when a players region expires. **[✔️]** *Needs a bit more work*
 - Add automatic invalid shop cleanup **[✔️]**
 - Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
-- Allow admins to run **/shop open** to view players shops **[✔️]**
 - Add a teleport delay **[✔️]**
 - Add configurable hologram view distance **[✔️]** *Optimise the hologram view distance system. It currently works, but it's too slow.*
 - Add configurable floating item view distance **[❌]**
