@@ -87,7 +87,6 @@ Example of automatic shop removal when you no longer own the region.
 - Allow admins to run **/shop open** to view players shops **[🐛]** 
 - Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list **[🐛]**
 - Add floating items above chest shops. **[🐛]** *Works, but is bugged*
-- Hide commands in /shop if you don't have permission **[❌]**
 - Players can create a shop if there is a block directly above the shop container. Bug fixed **[✔️]**
 - Added WorldGuard ownership checks to prevent players from creating shops in regions they do not own. **[✔️]**
 - Add configurable shop creation fees and refunds. **[✔️]**
@@ -102,13 +101,14 @@ Example of automatic shop removal when you no longer own the region.
   - Extend the tax system by adding configuration options to choose whether tax is applied to buy only, sell only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
 - Add shop owner (vendor) message notifications. **[✔️]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
-- Automatically remove shops when a players region expires. **[✔️]** *Needs a bit more work*
+- Automatically remove shops when a players region expires. **[✔️]** *(Needs a bit more work)*
 - Add automatic invalid shop cleanup **[✔️]**
-- Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
 - Add a teleport delay **[✔️]**
-- Add configurable floating item view distance **[❌]**
 - Add "only show shops in sight" option **[✔️]**
 - Add a language file for item name translations **[✔️]**
+- Hide commands in /shop if you don't have permission **[❌]**
+- Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
+- Add configurable floating item view distance **[❌]**
 - Show enchantment information when hovering over enchanted items in /shop info. **[❌]**
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
 - Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
