@@ -100,6 +100,7 @@ Example of automatic shop removal when you no longer own the region.
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
   - Extend the tax system by adding configuration options to choose whether tax is applied to buy only, sell only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
 - Add shop owner (vendor) message notifications. **[✔️]**
+  - Notify players of their offline shop earnings when they log in. **[❌]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
 - Automatically remove shops when a players region expires. **[✔️]** *(Needs a bit more work)*
 - Add automatic invalid shop cleanup **[✔️]**
