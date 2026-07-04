@@ -39,7 +39,11 @@ Example of a Copper Chest Shop
 
 Example of automatic shop removal when you no longer own the region.
 
-<img width="542" height="39" alt="Expired" src="https://github.com/user-attachments/assets/635fc0d8-66a7-4bb4-a845-dc7c42db8fd6" />
+<img width="589" height="39" alt="2026-07-04_13 20 15" src="https://github.com/user-attachments/assets/a8b88df5-2b0a-4e08-8ea3-7e7ad3754edc" />
+
+Example of /shop info
+
+<img width="452" height="146" alt="2026-07-04_13 20 05" src="https://github.com/user-attachments/assets/65e1bf91-9e09-436b-9a20-90c7a5854ee8" />
 
 - Added support for hex colours in hologram-format.yml.
 
@@ -107,10 +111,10 @@ Example of automatic shop removal when you no longer own the region.
 - Add a teleport delay **[✔️]**
 - Add "only show shops in sight" option **[✔️]**
 - Add a language file for item name translations **[✔️]**
+- Show enchantment information when hovering over enchanted items in /shop info. **[✔️]**
 - Hide commands in /shop if you don't have permission **[❌]**
 - Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
 - Add configurable floating item view distance **[❌]**
-- Show enchantment information when hovering over enchanted items in /shop info. **[❌]**
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
 - Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
 
