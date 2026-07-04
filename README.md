@@ -86,7 +86,7 @@ Example of /shop info
  **[💡]** = Considering
 
 - Add configurable hologram view distance **[✔️]**
-  - *Optimise the hologram view distance system. It currently works, but it's too slow.* **[✔️]**
+  - *Optimise the hologram view distance system.* **[✔️]**
   - *holograms remain visible if another player is within the hologram view distance, even after I move out of range.* [🐛] 
 - Allow admins to run **/shop open** to view players shops **[🐛]** 
 - Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list **[🐛]**
