@@ -39,7 +39,7 @@ Example of a Copper Chest Shop
 
 Example of automatic shop removal when you no longer own the region.
 
-<img width="589" height="39" alt="2026-07-04_13 20 15" src="https://github.com/user-attachments/assets/a8b88df5-2b0a-4e08-8ea3-7e7ad3754edc" />
+<img width="584" height="39" alt="2026-07-06_10 57 05 (1)" src="https://github.com/user-attachments/assets/557b5194-35ad-47a7-9466-1077c756da5e" />
 
 Example of /shop info
 
