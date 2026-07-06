@@ -102,7 +102,7 @@ Example of /shop info
   - Add per item minimum/maximum prices. **[✔️]** *Needs more descriptive messages*
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
-  - Extend the tax system by adding configuration options to choose whether tax is applied to buy only, sell only, or both. This should be configurable in config.yml and apply to both player shops and admin shops. **[❌]**
+  - Extend the tax system to support configurable per-item tax rates in a dedicated item-taxes.yml file. Each item can have its own buy and sell tax settings, overriding the global tax configuration where applicable. **[❌]**
 - Add shop owner (vendor) message notifications. **[✔️]**
   - Notify players of their offline shop earnings when they log in. **[❌]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
