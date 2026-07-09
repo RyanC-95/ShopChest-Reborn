@@ -89,7 +89,7 @@ Example of /shop info
   - *Optimise the hologram view distance system.* **[✔️]**
   - *holograms remain visible if another player is within the hologram view distance, even after I move out of range.* [🐛] 
 - Allow admins to run **/shop open** to view players shops **[🐛]** 
-- Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list **[🐛]**
+- Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list **[✔️]**
 - Add floating items above chest shops. **[🐛]** *Works, but is bugged*
 - Players can create a shop if there is a block directly above the shop container. Bug fixed **[✔️]**
 - Added WorldGuard ownership checks to prevent players from creating shops in regions they do not own. **[✔️]**
@@ -102,7 +102,7 @@ Example of /shop info
   - Add per item minimum/maximum prices. **[✔️]** *Needs more descriptive messages*
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
-  - Extend the tax system to support configurable per-item tax rates in a dedicated item-taxes.yml file. Each item can have its own buy and sell tax settings, overriding the global tax configuration where applicable. **[❌]**
+  - Extend the tax system to support configurable per-item tax rates in a dedicated item-taxes.yml file. Each item can have its own buy and sell tax settings, overriding the global tax configuration where applicable. **[✔️]**
 - Add shop owner (vendor) message notifications. **[✔️]**
   - Notify players of their offline shop earnings when they log in. **[❌]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
