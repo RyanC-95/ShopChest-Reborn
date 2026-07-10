@@ -47,7 +47,7 @@ Example of /shop info
 
 - Added support for hex colours in hologram-format.yml.
 
-Example of per item taxes
+Example of per item tax
 
 <img width="488" height="50" alt="Diamond" src="https://github.com/user-attachments/assets/978d7008-ae15-443e-83ed-71fc0babf9fe" />
 
