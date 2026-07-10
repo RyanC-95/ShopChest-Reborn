@@ -35,7 +35,7 @@ ShopChest Reborn is a modern, high-performance chest shop plugin for Paper serve
  
 Example of a Copper Chest Shop
 
-<img width="722" height="437" alt="Copper Shop" src="https://github.com/user-attachments/assets/0da37adf-684f-48ab-8802-b683d0ba2052" />
+<img width="722" height="437" alt="2026-07-10_18 25 53" src="https://github.com/user-attachments/assets/e2f9c4f0-cb28-4211-9ff9-d4ecce25e288" />
 
 Example of automatic shop removal when you no longer own the region.
 
