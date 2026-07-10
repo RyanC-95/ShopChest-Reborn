@@ -95,7 +95,7 @@ Example of per item taxes
   - *Optimise the hologram view distance system.* **[✔️]**
   - *holograms remain visible if another player is within the hologram view distance, even after I move out of range.* [🐛] 
 - Allow admins to run **/shop open** to view players shops **[✔️]** 
-- Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list **[✔️]**
+- Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list. Bug fixed **[✔️]**
 - Add floating items above chest shops. **[🐛]** *Works, but is bugged*
 - Players can create a shop if there is a block directly above the shop container. Bug fixed **[✔️]**
 - Added WorldGuard ownership checks to prevent players from creating shops in regions they do not own. **[✔️]**
