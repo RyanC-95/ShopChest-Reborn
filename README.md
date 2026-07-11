@@ -99,6 +99,7 @@ Example of per item tax
 
 ##
 - Holograms remain visible if another player is within the configured hologram view distance, even after I move out of range. Hologram visibility should be tracked per player, so each player only sees holograms while they are within the configured distance. [🐛]
+- Floating item glitches when creating a shop with a barrel. The floating item does not stay above the shop and instead slides across the floor. [🐛]
 ##
 - Hide commands in /shop if you don't have permission **[❌]**
 - Add configurable floating item view distance **[❌]**
