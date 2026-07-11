@@ -65,7 +65,7 @@ Example of per item tax
 - /shop config
 - /shop update
 - /shop limits
-- /shop limits <player>
+- /shop limits <player<player>>
 
 ## Permissions
 
@@ -88,7 +88,7 @@ Example of per item tax
 - shopchest.bypass.build-above
 - shopchest.limits
 - shopchest.limits.other
-- shopchest.limit.X (e.g. shopchest.limit.5)
+- shopchest.limit.<X<X>> (e.g. shopchest.limit.5)
 - shopchest.limit.*
 
 ## Roadmap
