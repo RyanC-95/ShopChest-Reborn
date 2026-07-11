@@ -99,7 +99,7 @@ Example of per item tax
 
 - Add configurable hologram view distance **[✔️]**
   - *Optimise the hologram view distance system.* **[✔️]**
-  - *holograms remain visible if another player is within the hologram view distance, even after I move out of range.* [🐛] 
+  - *Holograms remain visible if another player is within the configured hologram view distance, even after I move out of range. Hologram visibility should be tracked per player, so each player only sees holograms while they are within the configured distance.* [🐛] 
 - Allow admins to run **/shop open** to view players shops **[✔️]** 
 - Containers can still be used as shops even though they aren't on the "allowed-chest-types:" list. Bug fixed **[✔️]**
 - Add floating items above chest shops. Bug fixed **[✔️]**
