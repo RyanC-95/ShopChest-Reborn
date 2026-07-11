@@ -88,7 +88,7 @@ Example of per item tax
 - shopchest.bypass.build-above
 - shopchest.limits
 - shopchest.limits.other
-- shopchest.limit.<X> (e.g. shopchest.limit.5)
+- shopchest.limit.X (e.g. shopchest.limit.5)
 - shopchest.limit.*
 
 ## Roadmap
