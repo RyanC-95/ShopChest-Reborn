@@ -45,13 +45,13 @@ Example of /shop info
 
 <img width="452" height="146" alt="2026-07-04_13 20 05" src="https://github.com/user-attachments/assets/65e1bf91-9e09-436b-9a20-90c7a5854ee8" />
 
-- Added support for hex colours in hologram-format.yml.
-
 Example of per item tax
 
 <img width="488" height="50" alt="Diamond" src="https://github.com/user-attachments/assets/978d7008-ae15-443e-83ed-71fc0babf9fe" />
 
 <img width="488" height="50" alt="Emerald" src="https://github.com/user-attachments/assets/9ef0176e-f896-4725-9599-4b89bd14eaa2" />
+
+- Added support for hex colours in hologram-format.yml.
 
 ## Commands
 - /shop create <amount<amount>> <buy<buy>> <sell<sell>>
