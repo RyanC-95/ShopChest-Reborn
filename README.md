@@ -102,7 +102,6 @@ Example of per item tax
 - Floating item glitches when creating a shop with a barrel. The floating item does not stay above the shop and instead slides across the floor. [🐛]
 ##
 - Hide commands in /shop if you don't have permission **[❌]**
-- Add configurable floating item view distance **[❌]**
 ##
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
 - Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
