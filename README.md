@@ -111,14 +111,14 @@ Example of per item tax
 - Add allow-broken-items option **[✔️]**
 - Prevent players from buying or selling while in Creative mode. **[✔️]**
 - Configurable minimum/maximum prices and buy ≥ sell validation. **[✔️]**
-  - Add per item minimum/maximum prices. **[✔️]** *Needs more descriptive messages*
+  - Add per item minimum/maximum prices. **[✔️]**
 - Add decimal price support **[✔️]**
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
   - Extend the tax system to support configurable per-item tax rates in a dedicated item-taxes.yml file. Each item can have its own buy and sell tax settings, overriding the global tax configuration where applicable. **[✔️]**
 - Add shop owner (vendor) message notifications. **[✔️]**
   - Notify players of their offline shop earnings when they log in. **[✔️]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
-- Automatically remove shops when a players region expires. **[✔️]** *(Needs a bit more work)*
+- Automatically remove shops when a players region expires. **[✔️]**
 - Add automatic invalid shop cleanup **[✔️]**
 - Add a teleport delay **[✔️]**
 - Add "only show shops in sight" option **[✔️]**
