@@ -1,3 +1,6 @@
+<img width="1496" height="364" alt="a96eb05f-d785-4b03-9d3c-916da4376e5b" src="https://github.com/user-attachments/assets/ef107fcf-03f6-4854-aa0e-653596548e85" />
+
+
 ## ShopChest Reborn (WIP)
 
 ### ShopChest Reborn is currently in active development. While the core functionality is in place, there are still a number of known bugs and planned improvements. ShopChest Reborn has only been tested on Paper 26.1.2.
