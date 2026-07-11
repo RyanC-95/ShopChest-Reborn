@@ -110,7 +110,7 @@ Example of per item tax
 - Add a configurable tax system that deducts a percentage from every successful shop transaction. The tax should be configurable in config.yml and apply to both player shops and admin shops. **[✔️]**
   - Extend the tax system to support configurable per-item tax rates in a dedicated item-taxes.yml file. Each item can have its own buy and sell tax settings, overriding the global tax configuration where applicable. **[✔️]**
 - Add shop owner (vendor) message notifications. **[✔️]**
-  - Notify players of their offline shop earnings when they log in. **[❌]**
+  - Notify players of their offline shop earnings when they log in. **[✔️]**
 - Add a per-world shop creation toggle to config.yml, allowing server owners to enable or disable shop creation in specific worlds. **[✔️]**
 - Automatically remove shops when a players region expires. **[✔️]** *(Needs a bit more work)*
 - Add automatic invalid shop cleanup **[✔️]**
@@ -119,7 +119,7 @@ Example of per item tax
 - Add a language file for item name translations **[✔️]**
 - Show enchantment information when hovering over enchanted items in /shop info. **[✔️]**
 - Hide commands in /shop if you don't have permission **[❌]**
-- Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[❌]**
+- Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[✔️]**
 - Add configurable floating item view distance **[❌]**
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
 - Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
