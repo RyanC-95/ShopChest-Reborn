@@ -92,11 +92,20 @@ Example of per item tax
 - shopchest.limit.*
 
 ## Roadmap
+ **[🐛]** = Bug   
  **[❌]** = Not Done  
+**[💡]** = Considering  
  **[✔️]** = Done  
- **[🐛]** = Bug  
- **[💡]** = Considering
 
+##
+- Holograms remain visible if another player is within the configured hologram view distance, even after I move out of range. Hologram visibility should be tracked per player, so each player only sees holograms while they are within the configured distance. [🐛]
+##
+- Hide commands in /shop if you don't have permission **[❌]**
+- Add configurable floating item view distance **[❌]**
+##
+- Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
+- Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
+- Add support for multiple currencies on admin shops, allowing each shop to use a configurable economy (e.g. Vault, PlayerPoints, Tokens). Example, /shop setcurrency playerpoints **[💡]**
 ##
 - Add configurable hologram view distance **[✔️]**
   - *Optimise the hologram view distance system.* **[✔️]**
@@ -125,13 +134,4 @@ Example of per item tax
 - Add a language file for item name translations **[✔️]**
 - Show enchantment information when hovering over enchanted items in /shop info. **[✔️]**
 - Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[✔️]**
-##
-- Hide commands in /shop if you don't have permission **[❌]**
-- Add configurable floating item view distance **[❌]**
-##
-- Holograms remain visible if another player is within the configured hologram view distance, even after I move out of range. Hologram visibility should be tracked per player, so each player only sees holograms while they are within the configured distance. [🐛]
-##
-- Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
-- Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
-- Add support for multiple currencies on admin shops, allowing each shop to use a configurable economy (e.g. Vault, PlayerPoints, Tokens). Example, /shop setcurrency playerpoints **[💡]**
 
