@@ -129,4 +129,5 @@ Example of per item tax
 - Add configurable floating item view distance **[❌]**
 - Automatically reduce prices for inactive players' shops after a configurable number of days. **[💡]**
 - Add a built-in transaction history viewer for shop owners that will open a GUI when they run command **/shop history**. Including who bought or sold items, the item, quantity, and price. **[💡]**
+- Add support for multiple currencies on admin shops, allowing each shop to use a configurable economy (e.g. Vault, PlayerPoints, Tokens). Example, /shop setcurrency playerpoints **[💡]**
 
