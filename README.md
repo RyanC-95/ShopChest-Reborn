@@ -1,7 +1,5 @@
 <img width="1395" height="364" alt="ShopChest Reborn" src="https://github.com/user-attachments/assets/7c2972e5-141c-44f6-9a6b-e863c640422d" />
 
-## ShopChest Reborn (WIP)
-
 ### ShopChest Reborn is currently in active development. While the core functionality is in place, there are still a number of known bugs and planned improvements. ShopChest Reborn has only been tested on Paper 26.1.2.
 
 #
