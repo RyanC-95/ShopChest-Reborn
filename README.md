@@ -1,5 +1,4 @@
-<img width="1496" height="364" alt="a96eb05f-d785-4b03-9d3c-916da4376e5b" src="https://github.com/user-attachments/assets/ef107fcf-03f6-4854-aa0e-653596548e85" />
-
+<img width="1395" height="364" alt="ShopChest Reborn" src="https://github.com/user-attachments/assets/7c2972e5-141c-44f6-9a6b-e863c640422d" />
 
 ## ShopChest Reborn (WIP)
 
