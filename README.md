@@ -96,7 +96,9 @@ Example of per item tax
  **[❌]** = Not Done  
 **[💡]** = Considering  
  **[✔️]** = Done  
-
+ 
+##
+- When using a shulker box as a shop, if the shulker is facing upwards, opening it causes the floating item to move up with the lid. After the shulker is closed, the floating item remains in the raised position instead of returning to its original location above the shop. **[🐛]**
 ##
 - Hide commands in /shop if you don't have permission **[❌]**
 - Display potion details (effects, duration, and level) in /shop info for potions. **[❌]**
