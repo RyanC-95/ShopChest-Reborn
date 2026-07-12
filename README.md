@@ -98,8 +98,6 @@ Example of per item tax
  **[✔️]** = Done  
 
 ##
-- Floating item glitches when creating a shop with a barrel. The floating item does not stay above the shop and instead slides across the floor. **[🐛]**
-##
 - Hide commands in /shop if you don't have permission **[❌]**
 - Display potion details (effects, duration, and level) in /shop info for potions. **[❌]**
 ##
@@ -134,6 +132,7 @@ Example of per item tax
 - Add a language file for item name translations **[✔️]**
 - Show enchantment information when hovering over enchanted items in /shop info. **[✔️]**
 - The %STOCK% placeholder in hologram-format.yml does not update when an admin adds items to a player's shop using /shop open. For example, I opened a player's bread shop with /shop open, placed 1 bread into the chest, but the hologram stock count did not update. The hologram should refresh immediately whenever the shop inventory changes, regardless of whether the owner or an admin modifies the inventory. Bug fixed **[✔️]**
+- Floating item glitches when creating a shop with a barrel. The floating item does not stay above the shop and instead slides across the floor. **[✔️]**
 - Add a **/shop limits** command that displays how many shops a player has created, their maximum shop limit, and how many remaining shops they can create. Add permission-based shop limits. **[✔️]**
 - Holograms remain visible if another player is within the configured hologram view distance, even after I move out of range. Hologram visibility should be tracked per player, so each player only sees holograms while they are within the configured distance. Bug fixed **[✔️]**
 
